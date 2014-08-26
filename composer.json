@@ -1,0 +1,9 @@
+{
+	"name": "sevenpercent/callback",
+	"description": "Callable / closure wrapper class",
+	"autoload": {
+		"psr-4": {
+			"SevenPercent\\": "src/"
+		}
+	}
+}
